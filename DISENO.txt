@@ -1,0 +1,5 @@
+FLORES BEIGE, DORADAS Y AZULES
+Herramienta: ImageGen integrada.
+Prompt: lush horizontal peony rose ivory flower arrangement based on client reference; mostly beige champagne ivory flowers, restrained navy and dusty blue blooms, muted sage foliage and metallic gold sprigs. Transparent background. No text, screenshot UI or logos.
+Archivo final: assets/flores-beige-azul.webp
+Los trajes se usaron solo como referencia de paleta.

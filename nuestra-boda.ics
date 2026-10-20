@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DigitalPro//Boda Eloy y Marlene//ES
+BEGIN:VEVENT
+UID:eloy-marlene-20261121@digitalpro
+DTSTAMP:20261020T120000Z
+DTSTART:20261121T160000Z
+SUMMARY:Boda de Eloy y Marlene
+LOCATION:Templo de Sacaba
+DESCRIPTION:Ceremonia religiosa a las 12:00. Recepción en Salón de Eventos Copacabana. Enlaces de ubicación pendientes.
+END:VEVENT
+END:VCALENDAR
