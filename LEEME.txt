@@ -1,18 +1,29 @@
-ELOY & MARLENE · ACTUALIZACIÓN FINAL
-21 noviembre 2026 · 12:00 Bolivia
-Templo San Pedro de Sacaba
-Recepción después de la ceremonia: Salón de Eventos Copacabana. Calle 10 de Junio, entre C. Santa Cruz. Dirección transcrita de la tarjeta física.
-Papás de Eloy: Casimiro Rivera Zambrana y Octavina Cuba Flores.
-Papás de Marlene: Félix Alvarado Sanchez y Nora Gonzales Peredo.
-Padrinos religión: Crisólogo Peredo C. y Rosa Bustamante S.
-Padrinos civiles: Mario Chocaya M. y Marleny Mendoza G.
-Padrinos de aro: Cristhian Chocaya Montaño y Elsa Puente Ortiz.
-Música: Hasta mi final, archivo proporcionado por el cliente.
-Confirmación +59162503314. DigitalPro +59179352293.
-GPS templo: https://maps.app.goo.gl/s59DyzSVB92TpMGJ9
-GPS salón: https://maps.app.goo.gl/3jTbxLeEQG8zLJQo6
-Paleta interior actualizada al celeste de la tarjeta física; flores y estructura conservadas.
-Sobre celeste inspirado en invitación física suministrada.
-Subir todos los archivos y assets a GitHub Pages.
+ELOY & MARLENE · VERSIÓN CON OBSERVACIONES CORREGIDAS
 
-Actualización: ceremonia 21 noviembre 12:00; recepción el 21 después de ceremonia; segunda recepción 22 noviembre 15:00 en Copacabana. Calendario incluye los dos días.
+PROGRAMA
+Sábado 21 noviembre 2026, 12:00: ceremonia, Templo San Pedro de Sacaba.
+Sábado 21: recepción después de la ceremonia, Salón de Eventos Copacabana.
+Domingo 22 noviembre 2026, 15:00: recepción, Salón de Eventos Copacabana.
+Dirección del salón: Calle 10 de Junio, entre C. Santa Cruz.
+Templo: https://maps.app.goo.gl/s59DyzSVB92TpMGJ9
+Salón: https://maps.app.goo.gl/3jTbxLeEQG8zLJQo6
+
+PAPÁS DE ELOY
+Casimiro Rivera Zambrana y Octavina Cuba Flores
+PAPÁS DE MARLENE
+Félix Alvarado Sanchez y Nora Gonzales Peredo
+
+PADRINOS
+Religión: Crisólogo Peredo C. y Rosa Bustamante S.
+Civil: Mario Chocaya M. y Marleny Mendoza G.
+Aro: Cristhian Chocaya Montaño y Elsa Puente Ortiz
+Torta: Jesus Brayam Quisbert Salgueiro y Nohelia Flores Mamani
+Sorpresa: Roy Evert Loza Rocha
+
+APERTURA
+Tocar sobre: se abre y muestra la frase solicitada. La frase permanece en pantalla hasta pulsar Ver nuestra invitación. No avanza automáticamente.
+Nombres centrados; Sacaba - Cochabamba. Diseño celeste, flores y destellos conservados.
+
+Música: Hasta mi final.
+Confirmación WhatsApp +59162503314. DigitalPro +59179352293.
+Subir el contenido completo (index.html y demás archivos, incluyendo assets) a la raíz del repositorio GitHub Pages.
