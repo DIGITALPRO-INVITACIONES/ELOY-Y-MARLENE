@@ -21,7 +21,7 @@ Torta: Jesus Brayam Quisbert Salgueiro y Nohelia Flores Mamani
 Sorpresa: Roy Evert Loza Rocha
 
 APERTURA
-Tocar sobre: se abre y muestra la frase solicitada. La frase permanece en pantalla hasta pulsar Ver nuestra invitación. No avanza automáticamente.
+Tocar sobre: se abre y muestra la fotografía de la pareja, flores en el borde inferior y la frase debajo. La presentación permanece 30 segundos desde que la foto carga y luego abre automáticamente la invitación.
 Nombres centrados; Sacaba - Cochabamba. Diseño celeste, flores y destellos conservados.
 
 Música: Hasta mi final.
