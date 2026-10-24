@@ -11,3 +11,6 @@ body{overflow-x:hidden}.gate-welcome{display:flex;flex-direction:column;align-it
 
 /* Frase de bienvenida conservada bajo la fotografía. */
 .opening-message.photo-only-opening{flex-direction:column;gap:34px}.photo-only-opening .opening-photo>#opening-couple-photo{max-height:57dvh;max-width:min(80vw,470px)}.photo-only-opening .opening-quote{font:italic 20px/1.6 Lora,Georgia,serif;color:var(--deep);text-align:center;max-width:500px;margin:0 auto;padding:0 10px;text-wrap:pretty}@media(max-width:760px){.photo-only-opening .opening-quote{font-size:17px;line-height:1.6;max-width:360px}.photo-only-opening .opening-photo>#opening-couple-photo{max-height:55dvh;max-width:78vw}}@media(max-height:650px){.photo-only-opening .opening-photo>#opening-couple-photo{max-height:46dvh}.photo-only-opening .opening-quote{font-size:15px;line-height:1.5}.opening-message.photo-only-opening{gap:28px}}
+
+/* Flores centradas y fotografía con apertura directa. */
+.hero-flowers{left:0;right:0;width:100%;max-width:100%;margin-inline:auto;object-fit:contain;object-position:center top}.opening-photo[role="button"]{cursor:pointer}.opening-photo[role="button"]:focus-visible{outline:3px solid var(--gold);outline-offset:6px}

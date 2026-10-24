@@ -14,11 +14,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:eloy-marlene-recepcion-20261122@digitalpro
 DTSTAMP:20261021T120000Z
-DTSTART:20261122T190000Z
+DTSTART:20261122T210000Z
 SUMMARY:Recepción de Eloy y Marlene - segundo día
 LOCATION:Salón de Eventos Copacabana - Calle 10 de Junio entre C. Santa Cr
  uz
-DESCRIPTION:Recepción del domingo 22 de noviembre a las 15:00.
+DESCRIPTION:Recepción del domingo 22 de noviembre a las 17:00.
 URL:https://maps.app.goo.gl/3jTbxLeEQG8zLJQo6
 END:VEVENT
 END:VCALENDAR

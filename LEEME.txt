@@ -29,3 +29,5 @@ Confirmación WhatsApp +59162503314. DigitalPro +59179352293.
 Subir el contenido completo (index.html y demás archivos, incluyendo assets) a la raíz del repositorio GitHub Pages.
 
 Último ajuste: sobre centrado con flex y ancho limitado al viewport. Pantalla intermedia sin nombres, frase ni contador visible, únicamente foto con flores. Duración 20 segundos.
+
+Actualización final: foto 5 segundos o apertura al tocarla; frase nueva; recepción 22/11 a las 17:00 y calendario actualizado; mensaje de compartir con enlace público.
